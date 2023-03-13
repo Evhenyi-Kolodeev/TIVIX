@@ -1,0 +1,27 @@
+{
+  "name": "tivix",
+  "version": "1.0.0",
+  "description": "Test Task Cypress QA Recruitment Task 1. Create 3 different test cases on the http://qalab.pl.tivixlabs.com/ 2. Based on created test cases, please write automated E2E tests (Cypress + BDD backed by Page Object Model, you can publish them to your Github account).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evhenyi-Kolodeev/TIVIX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evhenyi-Kolodeev/TIVIX/issues"
+  },
+  "homepage": "https://github.com/Evhenyi-Kolodeev/TIVIX#readme",
+  "dependencies": {
+    "cypress": "^12.7.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
